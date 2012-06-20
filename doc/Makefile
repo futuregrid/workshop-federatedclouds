@@ -41,7 +41,7 @@ help:
 clean:
 	-rm -rf $(BUILDDIR)/*
 
-html: clean api
+html: clean
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
@@ -155,7 +155,5 @@ doctest:
 create:
 	cd ..; make force
 
-api:
-	sphinx-apidoc ../futuregrid -o build/source
 
 
