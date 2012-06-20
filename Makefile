@@ -1,6 +1,10 @@
 ######################################################################
 # GIT INTERFACES
 ######################################################################
+publish:
+	make -f Makefile push
+	make -f Makefile gh-pages
+
 push:
 	make -f Makefile clean
 	git commit -a 
