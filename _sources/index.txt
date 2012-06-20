@@ -9,12 +9,12 @@ Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit
    
    `International Conference on Autonomic Computing, San Jose, 18-20 Sep. 2012 <http://nsfcac.rutgers.edu/conferences/icac/>`_.
 
-Workshop Web Sites: 
+Workshop Web Sites
 -------------------
     * http://futuregrid.github.com/workshop-federatedclouds/
     * Contact: laszewski@gmail.com
 
-Deadlines:
+Deadlines
 ----------
 
       +----------------------+--------------------------+
@@ -27,12 +27,12 @@ Deadlines:
       | Workshop:            |  September 21, 2012      |
       +----------------------+--------------------------+
 
-Summary:
+Summary
 --------
 
     This event will be run as a workshop in conjunction with ICAC 2012 and will bring together researchers and practitioners to discuss the newest ideas and challenges in cloud services and federated cloud computing. With your help, we hope to accelerate the discussion in both commercial and academic contexts.
 
-Focus of the Workshop:
+Focus of the Workshop
 ----------------------
 
     The services offered by clouds are becoming critical for a wide variety of applications used by industry, education and government.There are now many examples of successful cloud services offered by public, private and community clouds. Many efforts exist that are creating cloud toolkits and frameworks to simplify the development and delivery of cloud services.
