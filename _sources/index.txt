@@ -12,7 +12,6 @@ Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit
 Workshop Web Sites: 
 -------------------
     * http://futuregrid.github.com/workshop-federatedclouds/
-    * https://sites.google.com/site/federatedclouds/
     * Contact: laszewski@gmail.com
 
 Deadlines:
