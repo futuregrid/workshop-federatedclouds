@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-<a href="{{ pathto('index') }}">
+      <a href="{{ pathto('index') }}">
 <!--<img src="{{pathto("_static/fg-logo-grid.png", 1) }}" border="0" alt="Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"/>
 -->
 </a>
@@ -28,7 +28,7 @@
     <td>
       <center>
       <font size="5" color="white"><b><i>Workshop on </i></b></font><br><br>
-      <font size="6" color="white" face="Comic Sans MS"><b><i>Cloud Services, Federation, and the 8th Open Cirrus Summit</i></b></font>
+      <font size="5" color="white" face="Comic Sans MS"><b><i>Cloud Services, Federation,<br> and the <br>8th Open Cirrus Summit</i></b></font>
       </center>
     </td>
   </tr>
@@ -38,8 +38,8 @@
 {{ super() }}
 {% endblock %}
 
-<!--
 
+{# put the sidebar before the body #}
 {% block sidebar1 %}{{ sidebar() }}{% endblock %}
 {% block sidebar2 %}{% endblock %}
 
